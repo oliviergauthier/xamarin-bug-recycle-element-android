@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AE4ADBDC-F8FD-47EC-935C-6EAD95335A40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyContacts/Data/SimpsonFactory.cs">
+    <Files>
+      <File FileName="MyContacts/MainPage.xaml" Line="14" Column="1" />
+      <File FileName="MyContacts/Data/SimpsonFactory.cs" Line="442" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyContacts.Droid PreferredExecutionTarget="Android.9b421f7e" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
